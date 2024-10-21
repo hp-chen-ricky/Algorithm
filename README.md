@@ -15,7 +15,7 @@
 <h4>演算法執行步驟</h4>
 若要求已知函數 f(x) = 0 的根 (x 的解)，則:
 <ol>
-  <li>Coffee</li>
+  <li>Coffee $\frac{1}{2}$</li>
 </ol> 
 
 
